@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Doggo</string>
+    <string name="woof_woof">Another dog</string>
+    <string name="todo">TODO</string>
+</resources>
